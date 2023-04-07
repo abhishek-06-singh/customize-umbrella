@@ -31,6 +31,6 @@ To customize your umbrella, simply follow these steps:
 - Once the customization is complete, your custom umbrella will be displayed on the screen. You can save or share the image to show off your creation!
 
 ## Demo
-![Screenshot Capture - 2023-04-07 - 13-54-38](https://user-images.githubusercontent.com/115978151/230578488-db3d683f-1c00-41b4-a9e6-ca3b6c0b22a8.png)
-![Screenshot Capture - 2023-04-07 - 13-54-38](https://user-images.githubusercontent.com/115978151/230578528-aa3429f6-883f-4cca-89d7-fa3c2faaba39.png)
+![Screenshot Capture - 2023-04-07 - 13-54-38](https://user-images.githubusercontent.![Screenshot Capture - 2023-04-07 - 14-01-34](https://user-images.githubusercontent.com/115978151/230578633-d0fcbc9a-a3a3-411f-aee9-2408a0812612.png)
+com/115978151/230578488-db3d683f-1c00-41b4-a9e6-ca3b6c0b22a8.png)
 ![Screenshot Capture - 2023-04-07 - 14-01-20](https://user-images.githubusercontent.com/115978151/230578509-3c620506-b43b-4d89-b5ac-5cfa79a41f4b.png)
